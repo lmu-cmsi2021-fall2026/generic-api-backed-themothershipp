@@ -8,7 +8,7 @@
 
 <h2>More about <a href="https://da.gd/">https://da.gd/</a></h2>
 
-<p><a href="https://da.gd/">https://da.gd/</a> was created back in 2011 by Rick Elrod. The website hosts an open-source API for shortening URLs. This API is the backbone of my API. He accepts donations at <a href="https://buymeacoffee.com/relrod">Buy Me A Coffee</a>.</p>
+<p><a href="https://da.gd/">https://da.gd/</a> was created back in 2011 by Rick Elrod. The website hosts an open-source API for shortening URLs. The documentation of which can be found on the public <a href="https://codeberg.org/dagd/dagd">Codeburg</a>. This API is the backbone of my webpage. He accepts donations at <a href="https://buymeacoffee.com/relrod">Buy Me A Coffee</a>.</p>
 
 <h2>Help from <a href="https://www.davidhu.io/react-spinners/">React Spinners</a></h2>
 
