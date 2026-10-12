@@ -1,19 +1,19 @@
-# React + Vite
+<h1>Generic API-Backed Webpage Project</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Currently, two official plugins are available:
+<h2>My link Shortener webpage hosted at <a href="https://lmu-cmsi2021-fall2026.github.io/generic-api-backed-themothershipp/">https://lmu-cmsi2021-fall2026.github.io/generic-api-backed-themothershipp/</a> or <a href="https://da.gd/Y1rvt">https://da.gd/Y1rvt</a></h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p>The webpage sends your URL to the <a href="https://da.gd/">https://da.gd/</a> shortening API and displays the returned short link under the qurey box. The query link is URL-encoded before sending. The original URL is only shared with da.gd. This webpage does not save any user data or user history.</p>
 
-## React Compiler
+<h2>More about <a href="https://da.gd/">https://da.gd/</a></h2>
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+<p><a href="https://da.gd/">https://da.gd/</a> was created back in 2011 by Rick Elrod. The website hosts an open-source API for shortening URLs. This API is the backbone of my API. He accepts donations at <a href="https://buymeacoffee.com/relrod">Buy Me A Coffee</a>.</p>
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+<h2>Help from <a href="https://www.davidhu.io/react-spinners/">React Spinners</a></h2>
 
-## Expanding the ESLint configuration
+<p>The spinner that I used for the submit button while loading was supplied by React Spinners. If you plan on running this webpage locally, remember to install the spinner's npm package with <code>npm install react-spinners</code>.</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>GitHub and Contact info</h2>
+
+<p>I can be found at <a href="https://github.com/Themothershipp">/themothershipp</a>. All my recent projects can be found on my profile's README.md. I'm planning on making more projects in the future. Please make an issues request on GitHub for any issues.</p>
